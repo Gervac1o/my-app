@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.361ac6c1.css",
+    "main.css": "/my-app/static/css/main.e39b8dc1.css",
     "main.js": "/my-app/static/js/main.d992ff09.js",
     "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/grupo.png": "/my-app/static/media/grupo.f9d0f3d1c0eb84823b7e.png",
-    "static/media/grupo-colors.png": "/my-app/static/media/grupo-colors.60102d13f160157da34e.png",
+    "static/media/thoit.jpeg": "/my-app/static/media/thoit.3347fa7a82417163f58c.jpeg",
     "static/media/logo_hell.png": "/my-app/static/media/logo_hell.48b21e10bc796802a75b.png",
     "static/media/vector-music.png": "/my-app/static/media/vector-music.c1bd7c845a371ddae955.png",
     "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-app/index.html",
-    "main.361ac6c1.css.map": "/my-app/static/css/main.361ac6c1.css.map",
+    "main.e39b8dc1.css.map": "/my-app/static/css/main.e39b8dc1.css.map",
     "main.d992ff09.js.map": "/my-app/static/js/main.d992ff09.js.map",
     "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.361ac6c1.css",
+    "static/css/main.e39b8dc1.css",
     "static/js/main.d992ff09.js"
   ]
 }
